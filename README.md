@@ -1,4 +1,6 @@
 # meta silvae
+FATT is clone of meta silvae.
+
 meta silvae (latin for "beyon forest" and acronym of **M**agister **E**fficiens **T**emperat **A**rbore **silvae**, which translates to "The efficient master mixes trees of the forest", but also "The efficient master mixes trees through [silva](https://github.com/abstract-machine-learning/silva)) is an abstract interpretation based tool for training decision tree classifiers, in particural we aim at enhancing stability-related properties of classifiers.
 
 meta silvae deploies a genetic algorithm to evolve a poluation of decision trees, and internally uses  [silva](https://github.com/abstract-machine-learning/silva) in order to assert fitness of individual trees in terms of accuracy and stability.
